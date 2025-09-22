@@ -5,8 +5,14 @@ using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 builder.Services.AddDbContext<EmailContext>();
-builder.Services.AddIdentity<AppUser,IdentityRole>().AddEntityFrameworkStores<EmailContext>().AddErrorDescriber<CustomIdentityValidator>();
+builder.Services.AddIdentity<AppUser,IdentityRole>(options =>
+{
+    // Default olan en kýsa þifre uzunluðunu deðiþtirmek istersek
+    options.Password.RequiredLength = 10;
+})
+	.AddEntityFrameworkStores<EmailContext>().AddErrorDescriber<CustomIdentityValidator>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

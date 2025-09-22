@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IdentityChatEmailNight.bundle.scp.css",
-      "PackagePath": "staticwebassets\\IdentityChatEmailNight.bundle.scp.css"
+      "PackagePath": "staticwebassets\\IdentityChatEmailNight.m57yxjh131.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\wwwroot\\css\\site.css",
@@ -21099,6 +21099,10 @@
     {
       "Id": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\wwwroot\\quixlab-master\\widgets.html",
       "PackagePath": "staticwebassets\\quixlab-master\\widgets.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdentityChatEmailNight.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdentityChatEmailNight.Microsoft.AspNetCore.StaticWebAssets.props",

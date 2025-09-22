@@ -64,7 +64,7 @@
                                     <div class="form-group">
                                         <input type="password" class="form-control" placeholder="Şifreniz" asp-for="Password" required>
                                     </div>
-                                    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                                    <div class="text-danger" asp-validation-summary="ModelOnly"></div> @* olası bir hatada bir div oluşturacak ve kırmızı bir yazı içinde(modelden gelen hatalar) *@ 
                                     <button class="btn login-form__btn submit w-100">Kayıt Ol</button>
                                 </form>
                                 <p class="mt-5 login-form__footer">Have account <a href="page-login.html" class="text-primary">Sign Up </a> now</p>
