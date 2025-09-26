@@ -22,9 +22,9 @@ namespace IdentityChatEmailNight.Controllers
         public async Task<IActionResult> UserLogin(LoginViewModel model)
         {
             var result = await _signInManager.PasswordSignInAsync(model.UserName, model.Password, false, true);
-            if (result.Succeeded) 
+            if (result.Succeeded)
             {
-                return RedirectToAction("Inbox", "Message");
+                return RedirectToAction("ProfileDetail", "Profile");
             }
             return View();
         }

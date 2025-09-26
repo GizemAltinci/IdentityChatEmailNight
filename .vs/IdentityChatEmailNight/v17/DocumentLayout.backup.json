@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|c:\\users\\gizem\\source\\repos\\identitychatemailnight\\identitychatemailnight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|solutionrelative:identitychatemailnight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|c:\\users\\gizem\\source\\repos\\identitychatemailnight\\identitychatemailnight\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|solutionrelative:identitychatemailnight\\views\\message\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|c:\\users\\gizem\\source\\repos\\identitychatemailnight\\identitychatemailnight\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|solutionrelative:identitychatemailnight\\views\\register\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|c:\\users\\gizem\\source\\repos\\identitychatemailnight\\identitychatemailnight\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|solutionrelative:identitychatemailnight\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|c:\\users\\gizem\\source\\repos\\identitychatemailnight\\identitychatemailnight\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|solutionrelative:identitychatemailnight\\models\\customidentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|c:\\users\\gizem\\source\\repos\\identitychatemailnight\\identitychatemailnight\\views\\message\\createmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0513F89-363A-40BB-B5A4-438078216D2A}|IdentityChatEmailNight\\IdentityChatEmailNight.csproj|solutionrelative:identitychatemailnight\\views\\message\\createmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Views\\Register\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "IdentityChatEmailNight\\Views\\Register\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Views\\Register\\CreateUser.cshtml",
-              "RelativeToolTip": "IdentityChatEmailNight\\Views\\Register\\CreateUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T10:29:02.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Program.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmailNight\\Program.cs",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Program.cs",
-              "RelativeToolTip": "IdentityChatEmailNight\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T10:25:29.527Z",
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Views\\Message\\Inbox.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmailNight\\Views\\Message\\Inbox.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Views\\Message\\Inbox.cshtml*",
+              "RelativeToolTip": "IdentityChatEmailNight\\Views\\Message\\Inbox.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:40:25.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomIdentityValidator.cs",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Models\\CustomIdentityValidator.cs",
-              "RelativeDocumentMoniker": "IdentityChatEmailNight\\Models\\CustomIdentityValidator.cs",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Models\\CustomIdentityValidator.cs",
-              "RelativeToolTip": "IdentityChatEmailNight\\Models\\CustomIdentityValidator.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDAAAAAJAAAAAAAAAA==",
+              "Title": "CreateMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Views\\Message\\CreateMessage.cshtml",
+              "RelativeDocumentMoniker": "IdentityChatEmailNight\\Views\\Message\\CreateMessage.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Views\\Message\\CreateMessage.cshtml",
+              "RelativeToolTip": "IdentityChatEmailNight\\Views\\Message\\CreateMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T18:23:31.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "IdentityChatEmailNight\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\IdentityChatEmailNight\\IdentityChatEmailNight\\Controllers\\MessageController.cs*",
+              "RelativeToolTip": "IdentityChatEmailNight\\Controllers\\MessageController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T10:09:50.445Z"
+              "WhenOpened": "2025-09-23T10:02:26.383Z",
+              "EditorCaption": ""
             }
           ]
         }

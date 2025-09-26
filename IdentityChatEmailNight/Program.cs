@@ -10,7 +10,7 @@ builder.Services.AddDbContext<EmailContext>();
 builder.Services.AddIdentity<AppUser,IdentityRole>(options =>
 {
     // Default olan en kýsa þifre uzunluðunu deðiþtirmek istersek
-    options.Password.RequiredLength = 10;
+    options.Password.RequiredLength = 9;
 })
 	.AddEntityFrameworkStores<EmailContext>().AddErrorDescriber<CustomIdentityValidator>();
 
